@@ -8,7 +8,7 @@ El programa funciona en consola y utiliza una estructura sencilla, ideal para co
 
 El sistema se mantiene en ejecución hasta que el usuario decide salir, permitiendo realizar múltiples operaciones sin reiniciar el programa. Esto simula el funcionamiento básico de un inventario real en pequeños sistemas administrativos.
 
-Además, el proyecto refuerza la lógica de control de flujo y la interacción con el usuario, mostrando mensajes claros y validando las opciones ingresadas.
+Además, el proyecto refuerza la lógica de control de flujo y la interacción con el usuario, mostrando mensajes claros y validando las opciones ingresadas. Esto permite que el sistema sea más robusto y fácil de usar, evitando errores comunes durante la ejecución y garantizando que las acciones seleccionadas correspondan a las funciones disponibles dentro del menú.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
